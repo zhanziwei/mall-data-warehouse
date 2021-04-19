@@ -36,6 +36,9 @@
 
 #### 项目步骤
 
-1. [数据生成模块](./data_generate.md "数据生成")
-2. [数据采集模块](./data_collect.md "数据采集")
+1. [数据生成模块](./project/data_generate.md "数据生成")
+2. [数据采集模块](./project/data_collect.md "数据采集")
+3. [数据仓库建立](./project/data_warehouse.md)
+4. [Azkaban调度](./project/azkaban.md)
+5. [使用superset进行可视化](./project/superset.md)
 
